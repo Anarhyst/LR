@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Tishkov
  */
 
-public class Lab2 {
+public class Lab1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
