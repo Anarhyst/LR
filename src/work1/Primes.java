@@ -1,7 +1,7 @@
 package work1;
 
 /**
- * @author shaidullin
+ * @author Tishkov
  */
 
 public class Primes {
