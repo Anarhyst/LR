@@ -21,7 +21,7 @@ import static java.lang.Boolean.TRUE;
 
 
 /**
- * @author shaidullin
+ * @author Tishkov
  *
  * В данном классе добавлена многопоточная реализация
  */
