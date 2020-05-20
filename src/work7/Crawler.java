@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.LinkedList;
 
 /**
- * @author shaidullin
+ * @author Tishkov
  *
  * Данный класс ищет все ссылки на указанной странице до определенной глубины поиска(depth)
  *
