@@ -3,7 +3,7 @@ package work2;
 import java.util.Scanner;
 
 /**
- * @author shaidullin
+ * @author Tishkov
  */
 
 public class Lab2 {
