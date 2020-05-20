@@ -6,7 +6,7 @@ import javax.swing.*;
 
 
 /**
- *  @author shaidullin
+ *  @author Tishkov
  *
  * A simple Swing application to demonstrate the A* pathfinding algorithm.  The
  * user is presented with a map, containing a start and end location.  The user
