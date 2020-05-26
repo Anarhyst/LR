@@ -16,7 +16,7 @@ import java.io.IOException;
 
 
 /**
- * @author shaidullin
+ * @author Tishkov
  *
  * В данном классе добавлено два новых фрактала, кнопка сохранения и выпадающий список,
  * а также улучшена реализация MouseHandler
