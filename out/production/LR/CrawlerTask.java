@@ -10,7 +10,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 
 /**
- * @author DenisTheGreat
+ * @author Tishkov
  *
  * Данный класс ищет все ссылки на указанной странице до определенной глубины поиска(depth)
  *
